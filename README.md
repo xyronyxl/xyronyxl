@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;I'm+Xyro+|+Desta+Xyro;Fullstack+Developer;SAMP+%26+FiveM+God;Owner+%40OrbitCloudByte" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;I'm+Xyronyxl+|+Desta+Xyro;Fullstack+Developer;SAMP+%26+FiveM+God;Owner+%40OrbitCloudByte" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +15,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  Xyro | Desta Xyro
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  Xyronyxl | Desta Xyro
 </h1>
 
 <p align="center">
@@ -32,7 +31,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
   Tech Stack
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
 </h2>
 
 <p align="center">
@@ -58,7 +56,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" />
   Game Development
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" />
 </h2>
 
 <p align="center">
@@ -72,7 +69,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30px" />
   Orbit CloudByte
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30px" />
 </h2>
 
 <p align="center">
@@ -91,7 +87,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" />
   What I Do
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" />
 </h2>
 
 <p align="center">
@@ -106,7 +101,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px" />
   GitHub Activity
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px" />
 </h2>
 
 <p align="center">
@@ -115,6 +109,10 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/main/assets/mario.gif" width="600px" />
 </p>
 
 <p align="center">
