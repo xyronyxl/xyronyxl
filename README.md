@@ -34,7 +34,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" alt="Pawn" />
+  <img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=pawn&logoColor=white" alt="Pawn" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -59,9 +59,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAMP-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cGF0aCBkPSJNMzIgMEMxNC4zIDAgMCAxNC4zIDAgMzJzMTQuMyAzMiAzMiAzMiAzMi0xNC4zIDMyLTMyUzQ5LjcgMCAzMiAwem0wIDU4LjFjLTE0LjQgMC0yNi4xLTExLjctMjYuMS0yNi4xUzE3LjYgNS45IDMyIDUuOXMyNi4xIDExLjcgMjYuMSAyNi4xLTExLjcgMjYuMS0yNi4xIDI2LjF6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white" alt="SAMP" />
+  <img src="https://img.shields.io/badge/SAMP-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="SAMP" />
   <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
-  <img src="https://img.shields.io/badge/Open.mp-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white" alt="Open.mp" />
+  <img src="https://img.shields.io/badge/Open.mp-000000?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Open.mp" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
@@ -112,7 +112,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/main/assets/mario.gif" width="600px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mariadb.svg" width="60px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minecraft.svg" width="60px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" width="60px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playstation.svg" width="60px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xbox.svg" width="60px" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nintendoswitch.svg" width="60px" />
 </p>
 
 <p align="center">
