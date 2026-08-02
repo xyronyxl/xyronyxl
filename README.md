@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SAMP-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="SAMP" />
-  <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
+  <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=steam&logoColor=white" alt="FiveM" />
   <img src="https://img.shields.io/badge/Open.mp-000000?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Open.mp" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -112,12 +112,21 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mariadb.svg" width="60px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minecraft.svg" width="60px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/steam.svg" width="60px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playstation.svg" width="60px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xbox.svg" width="60px" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nintendoswitch.svg" width="60px" />
+  <a href="https://github.com/xyronyxl">
+    <img src="https://img.shields.io/badge/GitHub-Xyronyxl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.gg/82WFfpaaEX">
+    <img src="https://img.shields.io/badge/Discord-Orbit+CloudByte-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="50px" />
 </p>
 
 <p align="center">
