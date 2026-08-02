@@ -28,7 +28,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px" />
   Tech Stack
 </h2>
 
@@ -53,7 +52,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px" />
   Game Development
 </h2>
 
@@ -66,7 +64,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25px" />
   Orbit CloudByte
 </h2>
 
@@ -84,7 +81,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" />
   What I Do
 </h2>
 
@@ -98,7 +94,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25px" />
   GitHub Activity
 </h2>
 
@@ -107,7 +102,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/l4FGrxH9j7DH6QcNa/giphy.gif" width="25px" />
   GitHub Achievements
 </h2>
 
@@ -119,6 +113,11 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60px" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60px" />
 </p>
 
 <p align="center">
