@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyronyxl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=xyronyxl&theme=radical&no-frame=true&row=2&column=4&bg_color=0d1117" width="49%" />
 </p>
 
 <h2 align="center">
@@ -105,6 +104,21 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyronyxl&theme=radical&hide_border=true&bg_color=0d1117" width="95%" />
+</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/l4FGrxH9j7DH6QcNa/giphy.gif" width="25px" />
+  GitHub Achievements
+</h2>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60px" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px" />
 </p>
 
 <p align="center">
