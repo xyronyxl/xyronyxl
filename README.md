@@ -108,10 +108,6 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/xyronyxl">
     <img src="https://img.shields.io/badge/GitHub-Xyronyxl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
