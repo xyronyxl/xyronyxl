@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;I'm+Xyronyxl+|+Desta+Xyro;Fullstack+Developer;SAMP+%26+FiveM+God;Owner+%40OrbitCloudByte" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile;I'm+Xyronyxl+|+Desta+Xyro;Fullstack+Developer;SAMP+%26+FiveM+God;Owner+%40OrbitCloudByte" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,17 +19,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyronyxl&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyronyxl&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xyronyxl&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyronyxl&theme=radical&hide_border=true&background=0d1117" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyronyxl&layout=compact&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=xyronyxl&theme=radical&no-frame=true&row=2&column=4" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyronyxl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xyronyxl&theme=radical&no-frame=true&row=2&column=4&bg_color=0d1117" width="49%" />
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px" />
   Tech Stack
 </h2>
 
@@ -54,7 +54,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px" />
   Game Development
 </h2>
 
@@ -67,7 +67,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25px" />
   Orbit CloudByte
 </h2>
 
@@ -85,7 +85,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" />
   What I Do
 </h2>
 
@@ -99,12 +99,12 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25px" />
   GitHub Activity
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyronyxl&theme=radical&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyronyxl&theme=radical&hide_border=true&bg_color=0d1117" width="95%" />
 </p>
 
 <p align="center">
@@ -118,15 +118,6 @@
   <a href="https://discord.gg/82WFfpaaEX">
     <img src="https://img.shields.io/badge/Discord-Orbit+CloudByte-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="50px" />
 </p>
 
 <p align="center">
