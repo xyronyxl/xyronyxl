@@ -27,9 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyronyxl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
 </p>
 
-<h2 align="center">
-  Tech Stack
-</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=pawn&logoColor=white" alt="Pawn" />
@@ -51,9 +49,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-<h2 align="center">
-  Game Development
-</h2>
+<h2 align="center">Game Development</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SAMP-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="SAMP" />
@@ -63,9 +59,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-<h2 align="center">
-  Orbit CloudByte
-</h2>
+<h2 align="center">Orbit CloudByte</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hosting-FF6B00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Hosting" />
@@ -80,9 +74,7 @@
   </a>
 </p>
 
-<h2 align="center">
-  What I Do
-</h2>
+<h2 align="center">What I Do</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack+Development-00FFAA?style=for-the-badge&logo=code&logoColor=black" alt="Fullstack" />
@@ -93,31 +85,10 @@
   <img src="https://img.shields.io/badge/Hosting+Services-00FFAA?style=for-the-badge&logo=cloud&logoColor=black" alt="Hosting" />
 </p>
 
-<h2 align="center">
-  GitHub Activity
-</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyronyxl&theme=radical&hide_border=true&bg_color=0d1117" width="95%" />
-</p>
-
-<h2 align="center">
-  GitHub Achievements
-</h2>
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px" />
-</p>
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60px" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60px" />
 </p>
 
 <p align="center">
