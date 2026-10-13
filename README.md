@@ -5,19 +5,13 @@
 <br />
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="150" alt="Mario Running" />
-      </td>
-      <td>
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=55FF55&center=true&vCenter=true&width=700&lines=Initializing+Server...;Loading+ElysiumVintage+World...;Deploying+Orbit+CloudByte...;Welcome+to+the+Grid" alt="Typing SVG" />
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="150" alt="Mario Running" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="120" alt="Mario Running" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saint11/Saint11Tutorials/master/CLouds.gif" width="100%" alt="Pixel Art Clouds" />
 </div>
 
 <br />
@@ -116,6 +110,12 @@
   <a href="https://discord.gg/2WpZGwkBcP" target="_blank">
     <img src="https://img.shields.io/badge/Orbit%20CloudByte-Premium%20Hosting-00C7B7?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0D1117" alt="Orbit CloudByte" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="120" alt="Mario Running" />
 </div>
 
 <br />
