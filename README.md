@@ -10,12 +10,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saint11/Saint11Tutorials/master/CLouds.gif" width="100%" alt="Pixel Art Clouds" />
-</div>
-
-<br />
-
 <p align="center"><b>Social Links</b></p>
 
 <div align="center">
@@ -71,6 +65,18 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xyronyxl&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<p align="center"><b>Contribution Snake</b></p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br />
