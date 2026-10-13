@@ -16,7 +16,7 @@
 
 <br />
 
-## Social Links
+<p align="center"><b>Social Links</b></p>
 
 <div align="center">
   <a href="https://github.com/xyronyxl" target="_blank">
@@ -40,7 +40,7 @@
 
 <br />
 
-## Tech Stack
+<p align="center"><b>Tech Stack</b></p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pawn,cpp,c,cs,java,js,ts,php,python,go,rust,lua,bash,html,css&theme=dark&perline=15" alt="Tech Stack" />
@@ -48,7 +48,7 @@
 
 <br />
 
-## GitHub Analytics
+<p align="center"><b>GitHub Analytics</b></p>
 
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=xyronyxl&show_icons=true&theme=merko&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=55FF55&icon_color=55FF55&text_color=FFFFFF" alt="GitHub Stats" />
@@ -75,7 +75,7 @@
 
 <br />
 
-## Services
+<p align="center"><b>Services</b></p>
 
 <div align="center">
   <a href="https://discord.gg/7GTg2bv7Qq" target="_blank">
