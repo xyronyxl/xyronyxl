@@ -16,9 +16,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=999999&color=55FF55&center=true&vCenter=true&width=400&height=35&lines=%3E%3E+SOCIAL+LINKS+%3C%3C" alt="Social Links" />
-</div>
+## Social Links
 
 <div align="center">
   <a href="https://github.com/xyronyxl" target="_blank">
@@ -42,15 +40,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saint11/Saint11Tutorials/master/CLouds.gif" width="100%" alt="Pixel Art Clouds" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=999999&color=55FF55&center=true&vCenter=true&width=400&height=35&lines=%3E%3E+TECH+STACK+%3C%3C" alt="Tech Stack" />
-</div>
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pawn,cpp,c,cs,java,js,ts,php,python,go,rust,lua,bash,html,css&theme=dark&perline=15" alt="Tech Stack" />
@@ -58,15 +48,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saint11/Saint11Tutorials/master/CLouds.gif" width="100%" alt="Pixel Art Clouds" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=999999&color=55FF55&center=true&vCenter=true&width=500&height=35&lines=%3E%3E+GITHUB+ANALYTICS+%3C%3C" alt="GitHub Analytics" />
-</div>
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=xyronyxl&show_icons=true&theme=merko&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=55FF55&icon_color=55FF55&text_color=FFFFFF" alt="GitHub Stats" />
@@ -93,15 +75,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saint11/Saint11Tutorials/master/CLouds.gif" width="100%" alt="Pixel Art Clouds" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=999999&color=55FF55&center=true&vCenter=true&width=400&height=35&lines=%3E%3E+SERVICES+%3C%3C" alt="Services" />
-</div>
+## Services
 
 <div align="center">
   <a href="https://discord.gg/7GTg2bv7Qq" target="_blank">
@@ -110,12 +84,6 @@
   <a href="https://discord.gg/2WpZGwkBcP" target="_blank">
     <img src="https://img.shields.io/badge/Orbit%20CloudByte-Premium%20Hosting-00C7B7?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0D1117" alt="Orbit CloudByte" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="120" alt="Mario Running" />
 </div>
 
 <br />
