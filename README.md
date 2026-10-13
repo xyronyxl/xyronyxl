@@ -1,105 +1,145 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile;I'm+Xyronyxl+|+Desta+Xyro;Fullstack+Developer;SAMP+%26+FiveM+God;Owner+%40OrbitCloudByte" alt="Typing SVG" />
-</p>
+&lt;!-- ===================== HEADER & BANNER ===================== --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Xyronyxl&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Game%20Server%20Architect%20%7C%20Hosting%20Provider&descAlignY=55&descSize=18&animation=fadeIn" width="100%" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xyronyxl&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/xyronyxl?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/xyronyxl?label=Total+Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/badge/Orbit+CloudByte-FF6B00?style=flat&logo=cloudflare&logoColor=white" alt="Orbit CloudByte" />
-</p>
+&lt;!-- ===================== TYPING ANIMATION ===================== --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Building+Robust+Game+Servers;Crafting+Modern+Web+Experiences;Providing+Premium+Hosting+Solutions" alt="Typing SVG" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Orbit+CloudByte&fontSize=40&fontAlignY=35&animation=twinkling" alt="Header" />
-</p>
+&lt;br /&gt;
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  Xyronyxl | Desta Xyro
-</h1>
+&lt;!-- ===================== SOCIAL & CONTACT BADGES ===================== --&gt;
+&lt;div align="center"&gt;
+  &lt;a href="https://github.com/xyronyxl"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://discord.gg/skFGVard"&gt;
+    &lt;img src="https://img.shields.io/badge/Discord%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://discord.gg/7GTg2bv7Qq"&gt;
+    &lt;img src="https://img.shields.io/badge/ElysiumVintage-Game%20Server-ED4245?style=for-the-badge&logo=discord&logoColor=white" alt="ElysiumVintage Discord" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://discord.gg/2WpZGwkBcP"&gt;
+    &lt;img src="https://img.shields.io/badge/Orbit%20CloudByte-Hosting%20Provider-00C7B7?style=for-the-badge&logo=discord&logoColor=white" alt="Orbit CloudByte Discord" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyronyxl&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyronyxl&theme=radical&hide_border=true&background=0d1117" width="49%" />
-</p>
+&lt;br /&gt;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyronyxl&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
-</p>
+&lt;!-- ===================== ABOUT ME ===================== --&gt;
+## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Calendar" width="25" height="25" /&gt; About Me
+&lt;table align="center"&gt;
+  &lt;tr&gt;
+    &lt;td valign="center" width="60%"&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;b&gt;Game Server Architect:&lt;/b&gt; Pengembang server GTA SA-MP (ElysiumVintage) dengan fokus pada performa, keamanan, dan gameplay yang imersif.&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Full Stack Developer:&lt;/b&gt; Mahir membangun website modern dari frontend hingga backend menggunakan berbagai bahasa pemrograman.&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Hosting Provider:&lt;/b&gt; Menyediakan layanan hosting premium melalui &lt;b&gt;Orbit CloudByte&lt;/b&gt; dengan uptime terbaik dan dukungan penuh.&lt;/li&gt;
+        &lt;li&gt;&lt;b&gt;Tech Enthusiast:&lt;/b&gt; Selalu eksplor teknologi baru untuk meningkatkan efisiensi sistem dan pengalaman pengguna.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/td&gt;
+    &lt;td valign="center" width="40%"&gt;
+      &lt;img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="100%" /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 
-<h2 align="center">Tech Stack</h2>
+&lt;br /&gt;
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pawn-000000?style=for-the-badge&logo=pawn&logoColor=white" alt="Pawn" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</p>
+&lt;!-- ===================== TECH STACK ===================== --&gt;
+## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Tech" width="25" height="25" /&gt; Tech Stack & Tools
 
-<h2 align="center">Game Development</h2>
+### Game Server Development
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=pawn,cpp,c,linux,docker,mysql&theme=dark" alt="Game Server Skills" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SAMP-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="SAMP" />
-  <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=steam&logoColor=white" alt="FiveM" />
-  <img src="https://img.shields.io/badge/Open.mp-000000?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Open.mp" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+### Web Development
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,php,laravel,python,go,rust&theme=dark" alt="Web Skills" /&gt;
+&lt;/div&gt;
 
-<h2 align="center">Orbit CloudByte</h2>
+### Database & Cloud
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,aws,gcp,azure,cloudflare&theme=dark" alt="Database & Cloud" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hosting-FF6B00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Hosting" />
-  <img src="https://img.shields.io/badge/Domain-FF6B00?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Domain" />
-  <img src="https://img.shields.io/badge/VPS-FF6B00?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" />
-  <img src="https://img.shields.io/badge/Game+Server-FF6B00?style=for-the-badge&logo=steam&logoColor=white" alt="Game Server" />
-</p>
+### Tools & Workflow
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,kubernetes,nginx,figma,postman,bash&theme=dark" alt="Tools" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <a href="https://discord.gg/82WFfpaaEX" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Orbit+CloudByte-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+&lt;br /&gt;
 
-<h2 align="center">What I Do</h2>
+&lt;!-- ===================== GITHUB STATS ===================== --&gt;
+## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /&gt; GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fullstack+Development-00FFAA?style=for-the-badge&logo=code&logoColor=black" alt="Fullstack" />
-  <img src="https://img.shields.io/badge/SAMP+Scripting-00FFAA?style=for-the-badge&logo=game&logoColor=black" alt="SAMP" />
-  <img src="https://img.shields.io/badge/FiveM+Scripting-00FFAA?style=for-the-badge&logo=game&logoColor=black" alt="FiveM" />
-  <img src="https://img.shields.io/badge/Web+Development-00FFAA?style=for-the-badge&logo=web&logoColor=black" alt="Web" />
-  <img src="https://img.shields.io/badge/Discord+Bot-00FFAA?style=for-the-badge&logo=discord&logoColor=black" alt="Discord Bot" />
-  <img src="https://img.shields.io/badge/Hosting+Services-00FFAA?style=for-the-badge&logo=cloud&logoColor=black" alt="Hosting" />
-</p>
+&lt;div align="center"&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=xyronyxl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" alt="GitHub Stats" /&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyronyxl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF" alt="Top Languages" /&gt;
+&lt;/div&gt;
 
-<h2 align="center">GitHub Activity</h2>
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=xyronyxl&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyronyxl&theme=radical&hide_border=true&bg_color=0d1117" width="95%" />
-</p>
+&lt;div align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=xyronyxl&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%" /&gt;
+&lt;/div&gt;
 
-<p align="center">
-  <a href="https://github.com/xyronyxl">
-    <img src="https://img.shields.io/badge/GitHub-Xyronyxl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discord.gg/82WFfpaaEX">
-    <img src="https://img.shields.io/badge/Discord-Orbit+CloudByte-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+&lt;br /&gt;
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
+&lt;!-- ===================== TROPHIES ===================== --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=xyronyxl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" /&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;
+
+&lt;!-- ===================== PROJECTS & SERVICES ===================== --&gt;
+## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Services" width="25" height="25" /&gt; Featured Services & Projects
+
+&lt;div align="center"&gt;
+  &lt;a href="https://discord.gg/7GTg2bv7Qq"&gt;
+    &lt;img src="https://img.shields.io/badge/ElysiumVintage-GTA%20SA--MP%20Server-ED4245?style=for-the-badge&logo=discord&logoColor=white" alt="ElysiumVintage" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://discord.gg/2WpZGwkBcP"&gt;
+    &lt;img src="https://img.shields.io/badge/Orbit%20CloudByte-Premium%20Hosting-00C7B7?style=for-the-badge&logo=serverless&logoColor=white" alt="Orbit CloudByte" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;
+
+| Service | Description | Link |
+| :--- | :--- | :--- |
+| **ElysiumVintage** | Server GTA SA-MP dengan gameplay vintage yang stabil dan komunitas aktif. | [Join Discord](https://discord.gg/7GTg2bv7Qq) |
+| **Orbit CloudByte** | Penyedia layanan hosting berkualitas dengan performa tinggi dan harga terjangkau. | [Join Discord](https://discord.gg/2WpZGwkBcP) |
+| **Web Development** | Jasa pembuatan website modern, responsif, dan scalable untuk berbagai kebutuhan. | [GitHub](https://github.com/xyronyxl) |
+
+&lt;br /&gt;
+
+&lt;!-- ===================== SUPPORT ===================== --&gt;
+## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Support" width="25" height="25" /&gt; Support & Connect
+
+&lt;div align="center"&gt;
+  &lt;p&gt;Jika Anda tertarik dengan layanan hosting atau ingin berkolaborasi dalam pengembangan game/web, silakan hubungi saya melalui Discord.&lt;/p&gt;
+  
+  &lt;a href="https://discord.gg/skFGVard"&gt;
+    &lt;img src="https://img.shields.io/badge/Contact%20Me-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact Me" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;br /&gt;
+
+&lt;!-- ===================== FOOTER ===================== --&gt;
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" /&gt;
+  
+  &lt;p&gt;
+    &lt;img src="https://komarev.com/ghpvc/?username=xyronyxl&label=Profile%20Views&color=9D4EDD&style=flat-square" alt="Profile Views" /&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;Copyright © 2026 Xyronyxl. All Rights Reserved.&lt;/p&gt;
+&lt;/div&gt;
