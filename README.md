@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/xyronyxl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-xyronyxl-181717?style=for-the-badge&logo=github&logoColor=55FF55&labelColor=0D1117&color=2d5a27" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://discord.gg/skFGVard" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Xyronyxl-5865F2?style=for-the-badge&logo=discord&logoColor=55FF55&labelColor=0D1117&color=2d5a27" alt="Discord Profile" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" />
   </a>
 </div>
 
@@ -25,10 +25,10 @@
 
 <div align="center">
   <a href="https://discord.gg/7GTg2bv7Qq" target="_blank">
-    <img src="https://img.shields.io/badge/ElysiumVintage%20Roleplay-Join%20Server-ED4245?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="ElysiumVintage Roleplay" />
+    <img src="https://img.shields.io/badge/ElysiumVintage%20Roleplay-Join%20Server-ED4245?style=for-the-badge&logo=discord&logoColor=white" alt="ElysiumVintage Roleplay" />
   </a>
   <a href="https://discord.gg/2WpZGwkBcP" target="_blank">
-    <img src="https://img.shields.io/badge/Orbit%20CloudByte-Join%20Server-00C7B7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Orbit CloudByte" />
+    <img src="https://img.shields.io/badge/Orbit%20CloudByte-Join%20Server-00C7B7?style=for-the-badge&logo=discord&logoColor=white" alt="Orbit CloudByte" />
   </a>
 </div>
 
@@ -52,12 +52,6 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=xyronyxl&theme=merko&hide_border=true&background=0D1117&stroke=55FF55&ring=55FF55&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyronyxl&bg_color=0D1117&color=55FF55&line=55FF55&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
@@ -69,14 +63,22 @@
 
 <br />
 
-<p align="center"><b>Contribution Snake</b></p>
+<p align="center"><b>Arcade Game</b></p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/github-snake.svg" />
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/pacman-output/pacman-contribution-graph.svg?game=pacman">
   </picture>
+</div>
+
+<br />
+
+<p align="center"><b>Snake</b></p>
+
+<div align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 <br />
@@ -85,10 +87,10 @@
 
 <div align="center">
   <a href="https://discord.gg/7GTg2bv7Qq" target="_blank">
-    <img src="https://img.shields.io/badge/ElysiumVintage%20Roleplay-GTA%20SA--MP%20Server-55FF55?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="ElysiumVintage" />
+    <img src="https://img.shields.io/badge/ElysiumVintage%20Roleplay-GTA%20SA--MP%20Server-55FF55?style=for-the-badge&logo=discord&logoColor=white" alt="ElysiumVintage" />
   </a>
   <a href="https://discord.gg/2WpZGwkBcP" target="_blank">
-    <img src="https://img.shields.io/badge/Orbit%20CloudByte-Premium%20Hosting-00C7B7?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0D1117" alt="Orbit CloudByte" />
+    <img src="https://img.shields.io/badge/Orbit%20CloudByte-Premium%20Hosting-00C7B7?style=for-the-badge&logo=serverless&logoColor=white" alt="Orbit CloudByte" />
   </a>
 </div>
 
