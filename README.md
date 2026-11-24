@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### **About Me**
+**About Me**
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-### **Tech Stack**
+**Tech Stack**
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-### **Featured Project**
+**Featured Project**
 
 </div>
 
@@ -72,7 +72,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-### **GitHub Stats**
+**GitHub Stats**
 
 </div>
 
@@ -89,7 +89,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-### **Contribution Snake**
+## **Contribution Snake**
 
 </div>
 
@@ -101,7 +101,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-### **Commit Invaders**
+**Commit Invaders**
 
 </div>
 
@@ -114,7 +114,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-### **Brick Breaker**
+**Brick Breaker**
 
 </div>
 
@@ -127,7 +127,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-### **Pac-Man Contribution Graph**
+**Pac-Man Contribution Graph**
 
 </div>
 
@@ -139,19 +139,6 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph.svg">
 </picture>
-
-</div>
-
-<div align="center">
-
-### **Shogi**
-
-</div>
-
-<div align="center">
-
-<!-- Shogi requires a dedicated workflow and static SVG pieces. See https://github.com/kanywst/shogi for reference. -->
-<img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/shogi-board.svg" alt="Shogi Board" />
 
 </div>
 
