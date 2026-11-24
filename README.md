@@ -14,7 +14,11 @@
 
 </div>
 
-## About Me
+<div align="center">
+
+### **About Me**
+
+</div>
 
 <img align="right" src="https://api.iconify.design/mdi/server-network.svg?color=%232c5364" width="100" alt="Server Network" />
 
@@ -32,22 +36,30 @@
 
 </div>
 
-## Tech Stack
+<div align="center">
+
+### **Tech Stack**
+
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,lua,bash,py,html,css,js,ts,react,nodejs,linux,docker,kubernetes,nginx,cloudflare,git,github,vscode&theme=dark" alt="C, Lua, Bash, Python, HTML, CSS, JavaScript, TypeScript, React, Node.js, Linux, Docker, Kubernetes, Nginx, Cloudflare, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=c,lua,bash,py,html,css,js,ts,react,nodejs,linux,docker,kubernetes,nginx,cloudflare,git,github,vscode&theme=dark" alt="Tech Stack" />
 
 <img src="https://img.shields.io/badge/Pawn-203a43?style=for-the-badge&logo=codeforces&logoColor=white" alt="Pawn" />
 <img src="https://img.shields.io/badge/SA%3AMP-2c5364?style=for-the-badge&logo=gamepad&logoColor=white" alt="SA:MP" />
 
 </div>
 
-## Featured Project
+<div align="center">
+
+### **Featured Project**
+
+</div>
 
 <div align="center">
 
-### Elysium Vintage Roleplay
+**Elysium Vintage Roleplay**
 
 **Classic SA:MP Server — Text Based**
 
@@ -58,7 +70,11 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 </div>
 
-## GitHub Stats
+<div align="center">
+
+### **GitHub Stats**
+
+</div>
 
 <div align="center">
 
@@ -71,9 +87,11 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 </div>
 
-## Contribution Snake
+<div align="center">
 
-<!-- This image requires the Platane/snk GitHub Action workflow at .github/workflows/snake.yml to generate the output asset. -->
+### **Contribution Snake**
+
+</div>
 
 <div align="center">
 
@@ -81,7 +99,67 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 </div>
 
-## Connect
+<div align="center">
+
+### **Commit Invaders**
+
+</div>
+
+<div align="center">
+
+<!-- Requires workflow: .github/workflows/commit-invaders.yml -->
+<img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/commit-invaders.svg" alt="Commit Invaders" />
+
+</div>
+
+<div align="center">
+
+### **Brick Breaker**
+
+</div>
+
+<div align="center">
+
+<!-- Requires workflow: .github/workflows/brick-breaker.yml -->
+<img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/game.svg" alt="Brick Breaker" />
+
+</div>
+
+<div align="center">
+
+### **Pac-Man Contribution Graph**
+
+</div>
+
+<div align="center">
+
+<!-- Requires workflow: .github/workflows/pacman.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+### **Shogi**
+
+</div>
+
+<div align="center">
+
+<!-- Shogi requires a dedicated workflow and static SVG pieces. See https://github.com/kanywst/shogi for reference. -->
+<img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/shogi-board.svg" alt="Shogi Board" />
+
+</div>
+
+<div align="center">
+
+### **Connect**
+
+</div>
 
 <div align="center">
 
