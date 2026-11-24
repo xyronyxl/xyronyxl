@@ -1,0 +1,24 @@
+name: Generate Commit Invaders
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: MakdumIbrohim/generate-commit-invaders@main
+        with:
+          github_user: ${{ github.repository_owner }}
+          output_path: assets/invaders.svg
+      - run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          git diff --staged --quiet || git commit -m "chore: update invaders"
+          git push
