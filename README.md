@@ -95,7 +95,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="./assets/snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -107,8 +107,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-<!-- Requires workflow: .github/workflows/commit-invaders.yml -->
-<img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/commit-invaders.svg" alt="Commit Invaders" />
+<img src="./assets/invaders.svg" alt="Commit Invaders" />
 
 </div>
 
@@ -120,8 +119,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-<!-- Requires workflow: .github/workflows/brick-breaker.yml -->
-<img src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/game.svg" alt="Brick Breaker" />
+<img src="./assets/brick-breaker.svg" alt="Brick Breaker" />
 
 </div>
 
@@ -133,12 +131,7 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-<!-- Requires workflow: .github/workflows/pacman.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/xyronyxl/xyronyxl/output/pacman-contribution-graph.svg">
-</picture>
+<img src="./assets/pacman.svg" alt="Pac-Man Contribution Graph" />
 
 </div>
 
