@@ -89,30 +89,6 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 
 <div align="center">
 
-## **Contribution Snake**
-
-</div>
-
-<div align="center">
-
-<img src="./assets/snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
-<div align="center">
-
-**Commit Invaders**
-
-</div>
-
-<div align="center">
-
-<img src="./assets/invaders.svg" alt="Commit Invaders" />
-
-</div>
-
-<div align="center">
-
 **Brick Breaker**
 
 </div>
@@ -120,18 +96,6 @@ A vintage-style roleplay server built on SA:MP, focused on text-based interactio
 <div align="center">
 
 <img src="./assets/brick-breaker.svg" alt="Brick Breaker" />
-
-</div>
-
-<div align="center">
-
-**Pac-Man Contribution Graph**
-
-</div>
-
-<div align="center">
-
-<img src="./assets/pacman.svg" alt="Pac-Man Contribution Graph" />
 
 </div>
 
